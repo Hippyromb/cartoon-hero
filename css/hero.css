@@ -10,12 +10,13 @@ header{
 
 header h1{
 		color: white;
+		font-family: Helvetica, Arial, sans-serif;
 }
 
 header img{
 	border-radius: 150px;
 	width: 300px
-	
+	border: 20px solid #483a94; 	
 }
 
 
